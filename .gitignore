@@ -1,0 +1,6 @@
+target/
+minecraftTestServer/
+start_minecraft.sh
+
+.idea/
+*.iml

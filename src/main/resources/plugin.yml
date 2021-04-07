@@ -1,0 +1,9 @@
+name: ploc
+main: de.hhhammer.ploc.Main
+version: 1.0
+author: hamburghammer
+commands:
+  ploc:
+    description: Get a location of an specific user.
+    usage: /<command> <player>
+    permission: ploc
